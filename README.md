@@ -64,9 +64,3 @@ Decoded Text: bonjour le monde
 
 ### `construire_codes_huffman` Function
 - Builds a dictionary mapping characters to their Huffman codes.
-
-## Author
-- **GitHub:** [Klaynight-dev](https://github.com/Klaynight-dev)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
